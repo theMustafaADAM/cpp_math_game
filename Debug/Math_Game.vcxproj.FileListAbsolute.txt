@@ -1,0 +1,2 @@
+C:\Users\smart\Dropbox\CppProgramming\MyProjects\Project_MathGame2\Debug\Math_Game.vcxproj.AssemblyReference.cache
+C:\Users\smart\Dropbox\CppProgramming\MyProjects\Project_MathGame2\Debug\Math_Game.exe

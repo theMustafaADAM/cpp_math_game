@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1659828136 source:/home/mus/Documents/C++Programming/CPrograms_Level_2/Project_MathGame2/main.cpp
+	<iostream>
+	<cstdlib>
+
+1660248752 source:/home/mus02/Documents/C++Programming/CPrograms_Level_2/Project_MathGame2/main.cpp
+	<iostream>
+	<cstdlib>
+	"mathgame2.h"
+
+1660164718 /home/mus02/Documents/C++Programming/CPrograms_Level_2/Project_MathGame2/mathgame2.h
+	<iostream>
+
